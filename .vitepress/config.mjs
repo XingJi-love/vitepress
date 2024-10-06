@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/xuevitepress/',
+  base: '/vitepress/',
   title: "宝小宝",
   description: "xiaobao",
   head: [["link", { rel: "icon", href: "/xuevitepress/ico.ico" }]],
